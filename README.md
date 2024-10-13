@@ -1,4 +1,4 @@
-## Test Your Laravel Routing Skills
+## Test Your Laravel Routing Skills 
 
 This repository is a test for you: fill in `routes/web.php` and `routes/api.php` which are left intentionally empty.
 
